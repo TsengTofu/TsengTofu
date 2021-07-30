@@ -1,4 +1,14 @@
 ### Hi there 👋
+<!-- 拜訪者的部分 -->
+<a href="#">
+  <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=TsengTofu&repo=github-visitors-badge&countColor=%237B1E7A">
+</a>
+
+
+<!-- 這邊還需要研究一下 -->
+<p align="center">
+<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TsengTofu&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+</p>
 
 <!--
 **TsengTofu/TsengTofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
